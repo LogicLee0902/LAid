@@ -27,9 +27,10 @@ python KD/RoPE_KD.py
 ### Evaluation
 
 
-We evaluate our models on [Visual haystacks Dataset](https://github.com/visual-haystacks/vhs_benchmark), [MMMU](https://github.com/MMMU-Benchmark/MMMU) and our proposed datasets.
+We evaluate our models on [Visual haystacks Dataset](https://github.com/visual-haystacks/vhs_benchmark) and some ICL datasets.
 
 For the code for evaluation on Visual haystacks Dataset, please refer to [Visual haystacks Dataset](https://github.com/visual-haystacks/vhs_benchmark).
-Other evaluation codes are provided in `window_test` folder.
+
 
 Related codes will be released soon.
+
